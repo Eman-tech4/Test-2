@@ -1,1 +1,7 @@
-
+[
+  {
+    "name": "Saiyan"
+    "movementType": "land"
+    "uniques": "Can pass through impasable tiles"
+  }
+]
