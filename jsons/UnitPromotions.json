@@ -1,1 +1,7 @@
-ssj
+[
+{
+"name": "SuperSajen",
+"uniques": ["[+50]% strength"],
+"unitTypes": ["Goku"],
+"row": 1,
+"column": 1
