@@ -4,7 +4,7 @@
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
 		"replaces": "Machine Gun",
-		"movement": 30,
+		"movement": 10,
 		"strength": 300,
 		"rangedStrength": 500,
 		"range": 20,
