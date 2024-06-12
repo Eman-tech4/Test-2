@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "",
+		"replaces": "",
+		"uniqueTo": "",
+		"cost": ,
+		"happiness": ,
+		"culture": ,
+		"science": ,
+		"maintenance": ,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "",
+		"requiredTech": ""
 	},
 	{
 		"name": "Breeders",
