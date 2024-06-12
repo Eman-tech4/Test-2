@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "",
+		"replaces": "",
+		"uniqueTo": "",
+		"cost": ,
+		"happiness": ,
+		"culture": ,
+		"science": ,
+		"maintenance": ,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "",
+		"requiredTech": ""
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
+		"name": "",
+		"replaces": "",
+		"uniqueTo": "",
+		"cost": ,
+		"hurryCostModifier": ,
+		"happiness": ,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredTech": ""
 	}
 ]
