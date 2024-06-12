@@ -5,8 +5,8 @@
 		"uniqueTo": "Aliens",
 		"replaces": "Machine Gun",
 		"movement": 3,
-		"strength": 300,
-		"rangedStrength": 500,
+		"strength": 30,
+		"rangedStrength": 50,
 		"range": 20,
 		"cost": 5,
 		"requiredTech": "Agriculture"
