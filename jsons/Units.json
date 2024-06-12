@@ -10,7 +10,7 @@
 		"range": 2,
 		"cost": 5,
 		"requiredTech": "Pottery",
-  "unique": Extra attack"
+  "unique": "Extra attack"
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
