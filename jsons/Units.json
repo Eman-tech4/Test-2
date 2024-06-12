@@ -1,16 +1,15 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
+		"name": "Goku",
+		"unitType": "Goku",
 		"uniqueTo": "Aliens",
 		"replaces": "Machine Gun",
-		"movement": 6,
+		"movement": 3,
 		"strength": 300,
 		"rangedStrength": 500,
 		"range": 20,
 		"cost": 5,
 		"requiredTech": "Pottery"
-   "unique": "Extra Attack"
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
