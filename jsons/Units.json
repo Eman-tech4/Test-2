@@ -9,7 +9,8 @@
 		"rangedStrength": 500,
 		"range": 20,
 		"cost": 5,
-		"requiredTech": "Pottery",
+		"requiredTech": "Pottery"
+   "unique": "Extra Attack"
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
