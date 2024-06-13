@@ -3,7 +3,6 @@
 		"name": "Goku",
 		"unitType": "Saiyan",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
 		"movement": 3,
 		"strength": 30,
 		"rangedStrength": 50,
@@ -11,6 +10,7 @@
 		"cost": 5,
 		"requiredTech": "Agriculture"
 		"promotions": ["Logistics","Accuracy I"],
+  "unique": Limited to [1] per Civilization,
 		"attackSound": "phasers"
 	}
 ]
