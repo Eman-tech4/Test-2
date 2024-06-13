@@ -10,7 +10,7 @@
   {
    "name": "Super Saiyan",
    "prerequisite": "Adult"
-   "uniques": ["[+5000]% Strength when under [50]% health "],
+   "uniques": ["[+5000]% Strength when under [50]% health"],
    "unitTypes": ["Super Saiyans"],
    "row": 5,
    "column": 2
