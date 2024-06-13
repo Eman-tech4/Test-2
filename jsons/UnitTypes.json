@@ -2,6 +2,7 @@
   {
     "name": "Saiyan"
     "movementType": "Land"
-    "unique": "Can pass through impasable tiles"
+    "uniques": ["Can pass through impasable tiles",
+"Can capture cities"],
   },
 ]
