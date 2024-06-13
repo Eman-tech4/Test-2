@@ -1,8 +1,10 @@
 [
   {
-    "name": "Saiyan"
+    "name": "Saiyans"
     "movementType": "Land"
     "uniques": ["Can pass through impasable tiles",
-"Can capture cities"],
+"gain [50]% XP from battle"],
   },
+  {
+    "name": "Super Saiyans"
 ]
