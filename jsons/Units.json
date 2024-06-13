@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Goku",
-		"unitType": "Saiyan",
+		"unitType": "Super Saiyans",
 		"uniqueTo": "Vegeta",
 		"movement": 3,
 		"strength": 100,
