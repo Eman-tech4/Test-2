@@ -8,6 +8,6 @@
   {
     "name": "Super Saiyans"
     "movementType": "Land"
-    "uniques": [Can pass through impassable tiles",
+    "uniques": ["Can pass through impassable tiles",
     "+[100]% XP from combat"]
 ]
