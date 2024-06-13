@@ -1,7 +1,7 @@
 [
   {
    "name": "SuperSaiyan",
-   "uniques": ["[+50]% Strength <vs everything>"],
+   "uniques": ["[+50]% Strength <vs all>"],
    "unitTypes": ["Saiyan"],
    "row": 5,
    "column": 1
