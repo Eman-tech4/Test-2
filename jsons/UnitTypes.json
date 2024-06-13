@@ -3,12 +3,12 @@
     "name": "Saiyans"
     "movementType": "Land"
     "uniques": ["Can pass through impasable tiles",
-    "+[50]% XP from combat"],
+    "+[50]% XP gained from combat"],
   },
   {
     "name": "Super Saiyans"
     "movementType": "Land"
     "uniques": ["Can pass through impassable tiles",
-    "+[100]% XP from combat"],
+    "+[100]% XP gained from combat"],
   },
 ]
