@@ -9,7 +9,7 @@
 		"range": 20,
 		"cost": 5,
    "uniques": ["[+50]% XP gained from combat,
-"Limited to [1] per Civilization"],
+"Limited to [1] per Civilization]",
 		"requiredTech": "Agriculture"
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
