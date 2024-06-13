@@ -8,7 +8,7 @@
 		"rangedStrength": 50,
 		"range": 20,
 		"cost": 5,
-   "unique": ["Limited to [1] per Civilization]",
+   "unique": "[Limited to [1] per Civilization]",
 		"requiredTech": "Agriculture"
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
