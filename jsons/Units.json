@@ -4,7 +4,7 @@
 		"unitType": "Super Saiyans",
 		"uniqueTo": "Vegeta",
 		"movement": 3,
-		"strength": 50,
+		"strength": 50000,
 		"range": 2,
 		"cost": 5,
    "uniques": ["[+50]% XP gained from combat",
