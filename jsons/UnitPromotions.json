@@ -10,7 +10,7 @@
   {
    "name": "Super Saiyan",
    "prerequisite": "Adult"
-   "uniques": ["[+5000]% Strength when [Wounded]"],
+   "uniques": ["[+5000]% Strength <when [Wounded]>"],
    "unitTypes": ["Super Saiyans"],
    "row": 5,
    "column": 2
