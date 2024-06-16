@@ -10,7 +10,7 @@
    "uniques": ["[+50]% XP gained from combat",
 "Limited to [1] per Civilization"],
 		"requiredTech": "Agriculture"
-		"promotions": ["Logistics","Accuracy I"],
+		"promotion": "Logistics",
 		"attackSound": "phasers"
 	}
 ]
