@@ -9,7 +9,7 @@
 
   {
    "name": "Super Saiyan",
-   "prerequisite": ["Adult"],
+   "prerequisites": ["Adult"],
    "uniques": ["[+150]% Strength"],
    "unitTypes": ["Super Saiyans"],
    "row": 5,
