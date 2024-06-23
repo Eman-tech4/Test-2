@@ -8,11 +8,19 @@
   },
 
   {
-   "name": "Super Saiyan",
+   "name": "Kioken",
    "prerequisites": ["Adult"],
-   "uniques": ["[+150]% Strength"],
+   "uniques": ["[+100]% Strength"]
+   "unitTypes": ["Super Saiyans"],
+   "row": 5
+   "column": 2
+
+  {
+   "name": "Super Saiyan",
+   "prerequisites": ["Kioken"],
+   "uniques": ["[+200]% Strength"],
    "unitTypes": ["Super Saiyans"],
    "row": 5,
-   "column": 2
+   "column": 3
   },
 ]
