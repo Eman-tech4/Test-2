@@ -11,4 +11,7 @@
     "uniques": ["Can pass through impassable tiles",
     "[+100]% XP gained from combat"],
   },
+  {
+   "name": "Other Gods"
+   "movementType": "Land"
 ]
