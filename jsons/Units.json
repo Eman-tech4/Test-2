@@ -13,4 +13,10 @@
 		"promotion": "Logistics",
 		"attackSound": "phasers"
 	}
+
+ {
+  "name": "Cthulhu",
+  "movement": 6,
+  "strength": 500,
+  "cost": 1000,
 ]
