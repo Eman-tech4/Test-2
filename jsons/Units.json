@@ -16,6 +16,7 @@
 
  {
   "name": "Cthulhu",
+  "unitType": "Other God"
   "movement": 6,
   "strength": 500,
   "cost": 1000,
